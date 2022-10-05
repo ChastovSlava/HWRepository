@@ -14,7 +14,7 @@ int main() {
 	for (int i = 0; i < e; i++) {
 		result = result + pow(mass[i], 2);
 	}
-	printf("Сумма квадратов эл-тов массива равна: %d.\n", result);
+	printf("Сумма квадратов эл-тов данного массива равна: %d.\n", result);
 	system("pause");
 	return 0;
 }
