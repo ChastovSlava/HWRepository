@@ -185,7 +185,7 @@ int main() {
 					}
 					else {
 						system("cls");
-						printf("¬ведено неверное значение!\n");
+						printf("«начение, которое вы ввели неверное!\n");
 						system("pause");
 						system("cls");
 					}
